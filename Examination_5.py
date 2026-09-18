@@ -6,5 +6,12 @@
 # ==========================================
 
 
-# นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-speed = int(input())
+speed = int(input("กรอกความเร็วรถ km/h"))
+if speed <= 60
+   print("Normol")
+elif speed == 60-90
+   print("Fast")
+elif speed > 90
+    print("Too Fast")
+else:
+    print("สถานะความเร็ว")
