@@ -6,7 +6,7 @@
 
 
 age = int(input("กรอกอายุ"))
-if age <= 18
+if age < 18
    print("ไม่มีสิทธิ์เลือกตั้ง")
 elif age => 18
    print("มีสิทธิ์เลือกตั้ง")
